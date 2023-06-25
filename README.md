@@ -23,7 +23,7 @@
 
 </div>
 
- ![Snake animation](https://github.com/StudioRandson/StudioRandson/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ### "A programação é a arte de torna-se real o que encontra-se na subjetividade". author Randson Farias. 
 
