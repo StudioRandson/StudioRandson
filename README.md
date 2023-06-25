@@ -2,7 +2,9 @@
 ### Olá! Eu sou Randson Farias, Sejam bem Vindos ao meu Perfil GitHub 👋 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randson-farias-709a02b2/)
 
+
 ![Randson GitHub stats](https://github-readme-stats.vercel.app/api?username=StudioRandson&show_icons=true&theme=tokyonight)
+![Lingugens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=StudioRandson&layout=compact&theme=tokyonight)
 
 
 ## Tecnologias que utilizo no dia a dia!
@@ -16,9 +18,12 @@
      <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
      <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
      <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><br/><br/>
-     <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><br/><br/>    
+     <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><br/><br/>   
+
 
 </div>
+
+![Snake animation](https://github.com/StudioRandson/StudioRandson/blob/output/github-contribution-grid-snake.svg)
 
 
 ### "A programação é a arte de torna-se real o que encontra-se na subjetividade". author Randson Farias. 
