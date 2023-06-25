@@ -20,8 +20,6 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StudioRandson&langs_count=8)<br/>
-
 
 ### "A programação é a arte de torna-se real o que encontra-se na subjetividade". author Randson Farias. 
 
