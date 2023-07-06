@@ -25,7 +25,7 @@
 
  
 
-### "A programação é a arte de torna-se real o que encontra-se na subjetividade". author Randson Farias. 
+### "A programação é a arte de tornar real o que encontra-se na subjetividade". author Randson Farias. 
 
 
 
