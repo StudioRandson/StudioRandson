@@ -1,6 +1,7 @@
 
 ### Olá! Eu sou Randson Farias, Sejam bem Vindos ao meu Perfil GitHub 👋 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/randson-farias-159b29289)
+
+
 
 
 ![Randson GitHub stats](https://github-readme-stats.vercel.app/api?username=StudioRandson&show_icons=true&theme=tokyonight)
