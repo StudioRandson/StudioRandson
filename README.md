@@ -1,13 +1,6 @@
 
 ### Olá! Eu sou Randson Farias, Sejam bem Vindos ao meu Perfil GitHub 👋 
 
-
-
-
-![Randson GitHub stats](https://github-readme-stats.vercel.app/api?username=StudioRandson&show_icons=true&theme=tokyonight)
-![Lingugens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=StudioRandson&layout=compact&theme=tokyonight)
-
-
 ## Tecnologias que utilizo no dia a dia!
 
 <div style="display: inline_block"><br/>    
